@@ -109,19 +109,29 @@
     color: white;
 }
 
-/* footer text  */
-footer {
-    font-size: 21px;
+.bottom-section {
+    background-color: #0f9a90;
+    padding: 40px 20px;
     text-align: center;
+}
+
+.subtext-3,
+.bottom-text {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* green colour banner at bottom  */
-.bottom-section {
-    background-color: #0f9a90;
-    padding: 25px;
+.subtext-3 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 16px;
 }
+
+.bottom-text {
+    font-size: 18px;
+    margin: 0;
+}
+
 
 
 /* Aboutus-page  */
